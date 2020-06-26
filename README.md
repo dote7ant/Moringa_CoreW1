@@ -25,6 +25,7 @@ The following packages are necessary to run the cells in ip_W4.ipynb:
     numpy
     matplotlib
     seaborn
+    sklearn
     
 
 ### Prerequisites

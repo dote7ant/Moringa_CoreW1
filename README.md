@@ -1,5 +1,5 @@
 # Moringa_Core_W2
-This repository contains the results and technical aspects  of the Data Science IP "In this week's independent project, you will be working as a data scientist working for an electric car-sharing service company. You have been tasked to process stations data to understand electric car usage over time by solving for the following research question: "Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018."
+This repository contains the results and technical aspects  of the Data Science Core IP "The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account. Your solution will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes."
 
 ## Getting Started
 
